@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.d1fd13cf.css",
-    "main.js": "/static/js/main.b26f3a6c.js",
+    "main.js": "/static/js/main.ab539222.js",
     "static/js/787.bbe01249.chunk.js": "/static/js/787.bbe01249.chunk.js",
     "static/media/BeVietnamPro-ExtraLight.ttf": "/static/media/BeVietnamPro-ExtraLight.4bf9a578283a916c7c58.ttf",
     "static/media/BeVietnamPro-SemiBold.ttf": "/static/media/BeVietnamPro-SemiBold.e756d8f2bdf42928a6e5.ttf",
     "static/media/BrandLogo_Alt.png": "/static/media/BrandLogo_Alt.2ad2178a87937d339a0b.png",
     "index.html": "/index.html",
     "main.d1fd13cf.css.map": "/static/css/main.d1fd13cf.css.map",
-    "main.b26f3a6c.js.map": "/static/js/main.b26f3a6c.js.map",
+    "main.ab539222.js.map": "/static/js/main.ab539222.js.map",
     "787.bbe01249.chunk.js.map": "/static/js/787.bbe01249.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1fd13cf.css",
-    "static/js/main.b26f3a6c.js"
+    "static/js/main.ab539222.js"
   ]
 }
