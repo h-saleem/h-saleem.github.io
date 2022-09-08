@@ -154,11 +154,11 @@ function App() {
               Get in touch:
             </Paragraph>
             <Spacer2></Spacer2>
-            <IconStrip>
+            {/* <IconStrip>
               <IconContainer1 src={logoAlt} alt="logo" />
               <IconContainer2 src={logoAlt} alt="logo" />
               <IconContainer3 src={logoAlt} alt="logo" />
-            </IconStrip>
+            </IconStrip> */}
           </Container>
       </Grid>
     </div>
