@@ -150,10 +150,10 @@ function App() {
               Coming soon
             </Heading>
             <Spacer4></Spacer4>
-            <Paragraph>
+            {/* <Paragraph>
               Get in touch:
             </Paragraph>
-            <Spacer2></Spacer2>
+            <Spacer2></Spacer2> */}
             {/* <IconStrip>
               <IconContainer1 src={logoAlt} alt="logo" />
               <IconContainer2 src={logoAlt} alt="logo" />
